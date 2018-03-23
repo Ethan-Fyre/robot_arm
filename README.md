@@ -21,3 +21,4 @@ os.path, functools, itertools, shapely, matplotlib.
 
 Most of these imports derive from the AIMA search.py and utils.py files that are used in this program.
 
+#### I assisted Micah Zik and Tyler Cooper on this project. Also some of the descriptions of parameters come from the assignment.
